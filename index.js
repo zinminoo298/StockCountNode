@@ -1,4 +1,4 @@
-var sqlite3 = require('sqlite3').verbose();
+var sqlite3 = require('sqlite3').verbose(); // sqlite 3
 var db1 = new sqlite3.Database('master.db');
 const express = require('express');
 const session = require('express-session');
