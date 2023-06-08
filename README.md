@@ -1,5 +1,5 @@
 # StockCountWeb
-Stock Take Web application, explore [here](https://github.com/zinminoo298/dev/blob/dev/app/release/DeviceTracker.apk). Test credentials(user1@gmail.com, 123456)
+Stock Take Web application, explore [here](http://35.85.32.168:3000/). Test credentials(user1@gmail.com, 123456)
 
 -Node Js
 -Express Js
